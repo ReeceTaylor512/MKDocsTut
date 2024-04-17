@@ -1,3 +1,3 @@
 # Welcome
 
-![](/uploads/signature-image.png)
+&nbsp;

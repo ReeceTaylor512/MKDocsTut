@@ -1,1 +1,4 @@
 site_name: MKDocs with Cloud Cannon tutorial
+
+theme:
+ name: readthedocs
