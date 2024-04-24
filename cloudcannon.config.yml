@@ -7,6 +7,24 @@ paths:
 collection_groups:
   - heading:
     collections:
+  - heading:
+    collections:
+_editables:
+  image:
+    expandable:
+    height:
+    image_size_attributes: true
+    mime_type:
+    paths:
+      uploads: docs/img
+      uploads_filename:
+      uploads_use_relative_path:
+      static:
+      dam_uploads:
+      dam_uploads_filename:
+      dam_static:
+    resize_style: contain
+    width:
 editor:
   default_path:
 source_editor:
