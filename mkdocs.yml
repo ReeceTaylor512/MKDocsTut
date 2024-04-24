@@ -2,9 +2,9 @@ site_name: MKDocs with Cloud Cannon tutorial
 
 #theme: readthedocs
  #user_color_mode_toggle: True
- 
+
 theme:
-  name: mat
+  name: readthedocs
  
 nav:
  - Intro: intro.md
