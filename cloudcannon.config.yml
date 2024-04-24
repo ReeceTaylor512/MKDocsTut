@@ -4,4 +4,13 @@ paths:
   collections: ''
   data: ''
   layouts:
+collection_groups:
+  - heading:
+    collections:
+editor:
+  default_path:
+source_editor:
+  tab_size: 2
+  theme: monokai
+  show_gutter: true
 timezone: Etc/UTC
