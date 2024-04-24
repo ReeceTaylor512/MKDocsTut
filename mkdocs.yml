@@ -2,3 +2,7 @@ site_name: MKDocs with Cloud Cannon tutorial
 
 theme:
  name: readthedocs
+ 
+nav:
+ - Intro: intro.md
+ - github: github-setup.md
