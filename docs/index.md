@@ -6,7 +6,7 @@ Hey everyone, this MKDocs site will be a guide on how to use MKDocs via a browse
 
 ## What is Cloud Cannon?
 
-Cloud cannon is a git-based CMS. What that means is Cloud Cannon connects to your GitHub Repository and then edits the files directly inside that repository. We'll take a look at setting up our GitHub on the next page.
+Cloud cannon is a git-based CMS. What that means is Cloud Cannon connects to your GitHub Repository and then edits the files directly inside that repository.  There are other git-based CMS platforms out there so feel free to discover them on your own. We'll take a look at setting up our GitHub on the next page.
 
 We'll also need a few pre-requisites before we can fully begin but I'll take you through it as best as I can.
 
