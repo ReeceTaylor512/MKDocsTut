@@ -2,7 +2,8 @@ site_name: MKDocs with Cloud Cannon tutorial
 
 theme:
  name: readthedocs
+ user_color_mode_toggle: True
  
 nav:
  - Intro: intro.md
- - github: github-setup.md
+ - Github Setup: github-setup.md
