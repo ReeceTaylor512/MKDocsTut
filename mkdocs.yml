@@ -6,3 +6,6 @@ theme: readthedocs
 nav:
  - Intro: intro.md
  - "Github Setup": github-setup.md
+ 
+markdown_extensions:
+ - smarty
