@@ -1,1 +1,2 @@
 git clone https://github.com/squidfunk/mkdocs-material.git
+pip install -e mkdocs-material
