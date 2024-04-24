@@ -5,4 +5,4 @@ theme: readthedocs
  
 nav:
  - Intro: intro.md
- - Github Setup: github-setup.md
+ - "Github Setup": github-setup.md
