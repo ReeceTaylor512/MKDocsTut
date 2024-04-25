@@ -9,6 +9,7 @@ theme:
 nav:
  - Intro: index.md
  - "Github Setup": github-setup.md
+ - "Cloud Cannon Setup": CC-setup.md
  
 markdown_extensions:
  - smarty
