@@ -1,6 +1,6 @@
-# Setting up Github
+# Setting up GitHub
 
-The first thing we need to do is set up a Github account and a Github repository. This will hold our files for Cloud Cannon to edit directly. When you upload to GitHub the files will stay with you and are not tied to Cloud Cannon so you won't lose them.
+The first thing we need to do is set up a GitHub account and a GitHub repository. This will hold our files for Cloud Cannon to edit directly. When you upload to GitHub the files will stay with you and are not tied to Cloud Cannon so you won't lose them.
 
 You will first need an account so go to <a href="https://github.com/" title="GitHub" target="_blank" rel="noopener">GitHub</a> and create one then come back here.
 
@@ -23,3 +23,5 @@ Now we need to add our files, since we will use our already existing files with 
 One done you should have something that looks like this
 
 ![](/uploads/image.png)
+
+Now your Portfolio is stored on your GitHub and we can create our site inside Cloud Cannon.
