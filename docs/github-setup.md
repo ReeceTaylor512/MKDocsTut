@@ -22,6 +22,6 @@ Now we need to add our files, since we will use our already existing files with 
 
 One done you should have something that looks like this
 
-![](/uploads/image.png)
+![](/docs/img/image.png)
 
 Now your Portfolio is stored on your GitHub and we can create our site inside Cloud Cannon.
