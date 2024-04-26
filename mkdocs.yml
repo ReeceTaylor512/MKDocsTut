@@ -13,4 +13,4 @@ nav:
  
 markdown_extensions:
  - smarty
- 
+ - md_in_html
