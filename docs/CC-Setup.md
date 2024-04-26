@@ -10,18 +10,18 @@ Once your account is created add a new site with the **Add New Site** button.
 
 Choose build with your own files.
 
-![](/uploads/image.png)
+![](/docs/img/AddNew.png)
 
 Give your site a name. Choose GitHub repository as the source and set it to your recently created portfolio. Under branch choose existing and choose main (this will probably be the only option anyway). Then press sync files.
 
-![](/uploads/image-1.png)
+![](/docs/img/image-1.png)
 
 Choose MKDocs as your SSG
 
-![](/uploads/image-2.png)
+![](/docs/img/image-2.png)
 
 IMPORTANT: Make sure you tick "**Include Git Folder**" otherwise files you create inside cloud cannon (i.e. **.md** files) won't be added into your GitHub repository and your website will not build.
 
-![](/uploads/image-3.png)
+![](/docs/img/image-3.png)
 
 &nbsp;
