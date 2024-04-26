@@ -20,7 +20,7 @@ Choose MKDocs as your SSG
 
 ![](/docs/img/image-2.png)
 
-<span style="color:blue">IMPORTANT: Make sure you tick "**Include Git Folder**" otherwise files you create inside cloud cannon (i.e. **.md** files) won't be added into your GitHub repository and your website will not build.</span>.
+<span style="color:red" "font-weight:bold">IMPORTANT: Make sure you tick "**Include Git Folder**" otherwise files you create inside cloud cannon (i.e. **.md** files) won't be added into your GitHub repository and your website will not build.</span>.
 
 ![](/docs/img/image-3.png)
 
